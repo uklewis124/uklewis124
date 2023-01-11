@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a portofolio
 - 🌱 I’m currently learning HTML and CSS
-- 📫 How to reach me: [Email](emailto:lewisastondavies1@gmail.com), Discord
+- 📫 How to reach me: [Email](mailto:lewisastondavies1@gmail.com), Discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love aviation!
 
