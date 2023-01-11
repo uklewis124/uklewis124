@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#Here are some things about me
+##Here are some things about me
 
 - 🔭 I’m currently working on a portofolio
 - 🌱 I’m currently learning HTML and CSS
