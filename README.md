@@ -7,7 +7,7 @@
 - 📫 How to reach me: [Email](mailto:lewisastondavies1@gmail.com), Discord
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love aviation!
-
+- 🐍 My favoriite language is Python
 <!--
 **uklewis124/uklewis124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
