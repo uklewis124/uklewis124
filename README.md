@@ -2,7 +2,7 @@
 
 ## Software Developer and UI Designer
 
-![Profile Picture](https://github.com/uklewis124/uklewis124/blob/main/profile-pic.jpg?size=200)
+![Profile Picture](https://github.com/uklewis124/uklewis124/blob/main/profile-pic.jpg?size=200&style=border-radius:50%)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?logo=twitter&style=for-the-badge)](https://twitter.com/yourtwitterhandle)
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/yourlinkedinhandle)
