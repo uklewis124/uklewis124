@@ -12,6 +12,12 @@
   <a href="https://www.instagram.com/yourinstagramhandle" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=for-the-badge" alt="Instagram Profile" /></a>
 </p>
 
+<style>
+  img {
+    border-radius: 50%;
+  }
+</style>
+
 ### About Me
 
 I am a passionate software developer and UI designer with a strong background in building and designing web applications. I have experience working with a variety of programming languages, frameworks, and tools, including Python, HTML, CSS, and GitHub.
