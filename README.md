@@ -3,7 +3,7 @@
 ## Software Developer and UI Designer
 
 <p align="center">
-  <img src="https://github.com/uklewis124/uklewis124/blob/main/profile-pic.jpg" alt="Profile Picture" width="200" height="200"/>
+  <img src="https://github.com/uklewis124/uklewis124/blob/main/profile-pic.jpg" alt="Profile Picture" width="200" height="200" border-radius=50%/>
 </p>
 
 <p align="center">
@@ -11,12 +11,6 @@
   <a href="https://www.linkedin.com/in/yourlinkedinhandle" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge" alt="LinkedIn Profile" /></a>
   <a href="https://www.instagram.com/yourinstagramhandle" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=for-the-badge" alt="Instagram Profile" /></a>
 </p>
-
-<style>
-  img {
-    border-radius: 50%;
-  }
-</style>
 
 ### About Me
 
