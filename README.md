@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]
+# Hi there, I'm Lewis
 
 ## Software Developer and UI Designer
 
@@ -14,14 +14,14 @@
 
 ### About Me
 
-I am a passionate software developer and UI designer with a strong background in building and designing web applications. I have experience working with a variety of programming languages, frameworks, and tools, including JavaScript, React, Node.js, and GitHub.
+I am a passionate software developer and UI designer with a strong background in building and designing web applications. I have experience working with a variety of programming languages, frameworks, and tools, including Python, HTML, CSS, and GitHub.
 
 In my free time, I enjoy learning new technologies, contributing to open source projects, and creating beautiful and intuitive user interfaces. I am always looking for new and exciting projects to work on, so feel free to reach out to me if you have any ideas!
 
 ### Skills
 
-- Software Development: JavaScript, React, Node.js, GitHub
-- UI Design: Figma, Sketch, Adobe XD
+- Software Development: Python, GitHub
+- UI Design: Canva, Photoshop
 - Other: HTML, CSS, Git, Agile Development
 
 ### Projects
