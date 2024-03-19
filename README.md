@@ -3,7 +3,7 @@
 ## Software Developer and UI Designer
 
 <p align="center">
-  <img src="https://github.com/uklewis124/uklewis124/blob/main/profile-pic.jpg" alt="Profile Picture" width="200" height="200" style="border-radius: 50%"/>
+  <img src="https://github.com/uklewis124/uklewis124/blob/main/profile-pic.jpg" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; object-fit: cover;"/>
 </p>
 
 <p align="center">
