@@ -2,11 +2,15 @@
 
 ## Software Developer and UI Designer
 
-![Profile Picture](https://github.com/uklewis124/uklewis124/blob/main/profile-pic.jpg?size=200&style=border-radius:50%)
+<p align="center">
+  <img src="https://github.com/uklewis124/uklewis124/blob/main/profile-pic.jpg" alt="Profile Picture" width="200" height="200" style="border-radius: 50%"/>
+</p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?logo=twitter&style=for-the-badge)](https://twitter.com/yourtwitterhandle)
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/yourlinkedinhandle)
-[![Instagram Profile](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=for-the-badge)](https://www.instagram.com/yourinstagramhandle)
+<p align="center">
+  <a href="https://twitter.com/yourtwitterhandle" target="blank"><img src="https://img.shields.io/twitter/follow/yourtwitterhandle?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
+  <a href="https://www.linkedin.com/in/yourlinkedinhandle" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge" alt="LinkedIn Profile" /></a>
+  <a href="https://www.instagram.com/yourinstagramhandle" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=for-the-badge" alt="Instagram Profile" /></a>
+</p>
 
 ### About Me
 
