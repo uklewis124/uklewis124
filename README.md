@@ -28,17 +28,14 @@ In my free time, I enjoy learning new technologies, contributing to open source 
 
 Here are some of my recent projects:
 
-- [Project 1](https://github.com/uklewis124/project1): Description of Project 1
-- [Project 2](https://github.com/uklewis124/project2): Description of Project 2
-- [Project 3](https://github.com/uklewis124/project3): Description of Project 3
+- [Quantum Sports Cars](https://www.quantumsportscars.com): A web design project for QSC, with the use of Ionos Web Builder
+- [Policing London NATS](https://lewisdavies.me/nats): A personal project for a Faction within an online gaming community
 
 ### Contact Me
 
 If you have any questions, comments, or would like to work with me, feel free to reach out to me on any of the following platforms:
 
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- LinkedIn: [Your LinkedIn Handle](https://www.linkedin.com/in/yourlinkedinhandle)
-- Instagram: [@yourinstagramhandle](https://www.instagram.com/yourinstagramhandle)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- LinkedIn: [Lewis Davies](https://www.linkedin.com/in/lewis-davies-542675235/)
+- Email: [contact@lewisdavies.me](mailto:contact@lewisdavies.me)
 
 Thanks for visiting my GitHub profile! I look forward to hearing from you.
